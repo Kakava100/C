@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int main(int argc, char **argv)
+int main(void)
 {
 	printf("    *\n");
 	printf("   ***\n");
@@ -10,4 +9,3 @@ int main(int argc, char **argv)
 	printf("  ZZZZZ\n");
 	return 0;
 }
-
