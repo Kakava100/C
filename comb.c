@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int main(int argc, char **argv)
+int main(void)
 {
 	printf(" _   _\n");
 	printf("/ \\_/ \\\n");
