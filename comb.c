@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-	printf(" _   _\n");
-	printf("/ \\_/ \\\n");
-	printf("\\_/ \\_/\n");
-	printf("/ \\_/ \\\n");
-	printf("\\_/ \\_/\n");
+	printf(" __    __\n");
+	printf("/  \\__/  \\\n");
+	printf("\\__/  \\__/\n");
+	printf("/  \\__/  \\\n");
+	printf("\\__/  \\__/\n");;
 	return 0;
 }
