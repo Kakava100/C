@@ -8,6 +8,6 @@ int main(int argc, char **argv)
     printf("%d\n", sum);
     getchar();
     getchar();    	
-	return 0;
+    return 0;
 }
 
