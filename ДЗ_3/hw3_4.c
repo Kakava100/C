@@ -9,6 +9,6 @@ int main(int argc, char **argv)
     printf("%.2f\n", d);
     getchar();
     getchar();    	
-	return 0;
+    return 0;
 }
 
