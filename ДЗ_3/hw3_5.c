@@ -12,6 +12,6 @@ int main(int argc, char **argv)
     printf("%d\n", p);
     getchar();
     getchar();    	
-	return 0;
+    return 0;
 }
 
